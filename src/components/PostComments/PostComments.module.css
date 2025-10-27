@@ -5,15 +5,11 @@
     margin-bottom: 24px;
 }
 
-.post-comments {
-    
-}
-
 .post-comment {
-    color: #444;
+    color: #ffffff;
     font-size: 12px;
     line-height: 20px;
-    background-color: #ffff9f;
+    background-color: #000000;
     padding: 8px 16px;
     border-radius: 8px;
     margin-bottom: 8px;
@@ -41,7 +37,7 @@
     font-weight: bold;
     border-radius: 8px;
     border: none;
-    background-color: #27ae60;
+    background-color: #000000;
     color: #eee;
     cursor: pointer;
 }
